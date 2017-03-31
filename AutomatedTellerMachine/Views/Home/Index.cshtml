@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="row">
+    <div class="col-md-4 margin-top-20">
+        <a href="@Url.Action("Details", "CheckingAccount")" class="btn btn-primary btn-lg btn-block"><span class="glyphicon glyphicon-question-sign"></span> Balance Inquiry</a>
+    </div>
+
+    <div class="col-md-4 margin-top-20">
+        <a href="@Url.Action("Deposit", "Transaction", new { checkingAccountId = ViewBag.CheckingAccountId })" class="btn btn-primary btn-lg btn-block"><span class="glyphicon glyphicon-circle-arrow-up"></span> Deposit</a>
+    </div>
+    <div class="col-md-4 margin-top-20">
+        <a href="@Url.Action("MyTransactions", "Transaction")" class="btn btn-primary btn-lg btn-block"><span class="glyphicon glyphicon-question-sign"></span> My Transactions</a>
+    </div>
+
+</div>
+
+
+Your Checking Account ID:@ViewBag.CheckingAccountId
+
+@*You are using @Request.Browser.Browser, and that's ok!
+
+    @{var amounts = new List<decimal>{100, 25, 25.50m, -40, 245.99m};
+
+    }
+
+
+
+    @helper formatAmount(decimal amount)
+    {
+        var color = "green";
+        if (amount < 0)
+        {
+            color = "red";
+        }
+        <span style="color:@color">@String.Format("{0:c}", amount)</span>
+    }
+
+    <ul>
+        @foreach (decimal amount in amounts) {
+            <li>@formatAmount(amount)</li>
+        }
+        </ul>*@
+

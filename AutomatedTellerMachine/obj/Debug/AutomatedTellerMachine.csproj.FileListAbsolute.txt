@@ -1,0 +1,293 @@
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\Erind9eee\Source\Repos\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.addedpin.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.addedpin.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.addedpin.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\1. Added the Identity fixed the problem\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.InitialCreate.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.AccountNumberChanges.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.addedpin.resources
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\CodeBase\Automated Teller Machine\3. UnObtrusive Ajax\ATMprojectUnObtrusiveAjax\ATMproject\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll.config
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Owin.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\WebGrease.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Helpers.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Mvc.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Optimization.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.Razor.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Antlr3.Runtime.pdb
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Newtonsoft.Json.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\EntityFramework.SqlServer.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csprojResolveAssemblyReference.cache
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.dll
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.pdb
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.Migrations.initial.resources
+C:\Users\Erind9eee\Desktop\AutomatedTellerMachine\AutomatedTellerMachine\obj\Debug\AutomatedTellerMachine.csproj.GenerateResource.Cache
